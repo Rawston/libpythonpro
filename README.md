@@ -8,6 +8,7 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 [![Build Status](https://app.travis-ci.com/Rawston/libpythonpro.svg?branch=master)](https://app.travis-ci.com/Rawston/libpythonpro)
 [![Updates](https://pyup.io/repos/github/Rawston/libpythonpro/shield.svg)](https://pyup.io/repos/github/Rawston/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/Rawston/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/Rawston/libpythonpro/)
+[![codecov](https://codecov.io/gh/Rawston/libpythonpro/branch/master/graph/badge.svg?token=US2WCQ8KSL)](https://codecov.io/gh/Rawston/libpythonpro)
 Suportada versão 3 de Python
 
 Para instalar:
