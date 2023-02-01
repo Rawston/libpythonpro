@@ -13,8 +13,9 @@ Suportada versão 3 de Python
 Para instalar:
 
 ```console
-python3 -m venv .venv
-.venv\Sctripts\activate
+python3 -m venv env
+{windows} - env\Sctripts\activate {windows}
+{Ubuntu} - source env/bin/activate
 pip install -r reqirements-dev.txt
 pip install pipenv
 pipenv install --dev
